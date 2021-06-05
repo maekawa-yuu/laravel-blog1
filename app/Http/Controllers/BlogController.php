@@ -10,7 +10,7 @@ class BlogController extends Controller
 {
     /**
      * ブログ一覧を表示する
-     * 
+     * あああ
      * @return view
      */
     public function showList()
